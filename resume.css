@@ -1,0 +1,65 @@
+j*{
+    margin: 5px;
+    padding: 5px;
+}
+
+
+.main{
+    
+    display: flex;
+    font-family: 'poppins',sans-serif;
+    background-image: url(https://i.pinimg.com/474x/27/76/9f/27769f8d0f5c218a3da90e6fb63d52f5.jpg);
+    border: 2px solid black;
+    background-size: cover;
+    background-position: center;
+    
+   
+}
+.grp1{
+    width: 70%;
+    height: auto;
+    margin-right: 15%;  
+    float: right;
+    margin-top: 80px;
+    
+    
+}
+.photo img{
+position: relative;
+padding: 25%;
+bottom: 1%;
+border-radius: 180%;
+
+}
+
+
+
+
+.grp2{
+    
+    text-align:left;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 20%;
+    
+
+}
+
+    
+.cont ul li{
+    list-style: none;
+    display: flex;
+    align-items: center; 
+
+    
+       
+}
+
+.grp1 h1{
+    font-size: 250%;
+}
+
+
+
+
+
